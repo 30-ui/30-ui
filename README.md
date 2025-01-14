@@ -15,18 +15,46 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  
- 
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+
+I am the founder of **Cambridge Climate Ltd**. I am also learning Data Science to find tech solutions to the world's environmental problems. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I live in the UK.
+
+- :telescope: I’m currently setting up my new business and building my networks.
+
+- :seedling: Exploring python, machine learning, neural networks and data visualisation.
+
+- :zap: In my free time, I am practicing on HackerRank, read climate tech articles and swim in cold water for mental health and well being. 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sheryl-french-67139412b)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/tree/master/icons/powershell.svg" title="Powershell" alt="Powershell" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg title="Python" alt="Python" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-line.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=30-ui&theme=transparent)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=30-ui&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
-**30-ui/30-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**30-ui/30-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on setting up my new business called **Cambridge Climate Ltd**. It's mission based, seeking to play its part preventing further climate change and helping manage climate risk for people, nature and our planet. 
-- 🌱 I’m currently learning **Data science and Analytics** with __Hyperion Dev__ . The course has covered python programming, OOP classes, data visualisation and preprocessing and soon I will get insights into machine learning before tackling Neural Networks ad Natural Language Processing.
-- 👯 I’m looking to collaborate with anyone who wants to help tackle environmental and climate damage with tech solutions.
-- 🤔 I’m looking for coding solutions you are already working on that tackle the causes and impacts of climate change and would like to help. My coding skills are at an early stage, so basic,  but I offer deep knowledge on climate change so  may be able to offer a fresh view on solutions.
-- 💬 Ask me about UK climate and environmental policy or about energy system transformation. I will see if I can help you.
-- 📫 You can reach me here : www.linkedin.com/in/sheryl-french-67139412b or via Github
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm trying cold water swimming this winter and the coldest water so far has been 3.2 Celsius. 
--->
